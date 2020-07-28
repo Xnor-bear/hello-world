@@ -1,4 +1,4 @@
-# hello-world
-Hello Github, it's Xnor!
+# Hello-world
+Hello Github, it's Xnor here!
 
-Bravo!That's so cool.I fell in love with codes at the frist sight.
+Bravo my bro!That's really cool.I fell in love with coding at the frist sight.
